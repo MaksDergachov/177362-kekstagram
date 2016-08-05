@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Тамби Мерза](https://up.htmlacademy.ru/javascript/6/user/177362).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Датский](https://htmlacademy.ru/profile/id129440).
 
 ---
 
